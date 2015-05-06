@@ -6,7 +6,7 @@
 * http://robertpage.github.io/gilly/
 
 ### How to use ###
-* include gilly.js
+* include gilly.js and gilly.css
 * gilly.show(['image path'],['youtube url']) 
 
 ### To do ###
