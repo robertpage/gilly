@@ -3,7 +3,7 @@
 * Version 0.01
 
 ### Demo ###
-* http://robertpage.github.io/gilly/
+* http://www.robertpages.com//#portfolio
 
 ### How to use ###
 * include gilly.js and gilly.css
